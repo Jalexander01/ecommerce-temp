@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './homepage.styles.sass';
 const HomePage = () => (
     <div className = 'homepage'>
          <div className = 'directory-menu'>
@@ -8,7 +8,7 @@ const HomePage = () => (
          <h1> HATS</h1>
          <span>CLEARANCE SALE!</span>
         </div>
-        </di>
+        </di> 
         <di className='menu-item'>
         <div className ='content'>
          <h1> JACKETS</h1>
