@@ -6,8 +6,8 @@ const HomePage = () => (
         <div className="directory-menu">
             <di className="menu-item">
                 <div className="content">
-                    <h1> HATS</h1>
-                    <span>CLEARANCE SALE!</span>
+                    <h1 className='title'> HATS</h1>
+                    <span className='subtitle'>CLEARANCE SALE!</span>
                 </div>
             </di>
             <di className="menu-item">
